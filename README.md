@@ -2,13 +2,6 @@
 ```
 一个基于vue3.x+element-ui简洁的博客模板
 ```
-
-## 演示地址
-[demo](http://www.fengziy.cn/fBlog/)
-```
-http://www.fengziy.cn/fBlog/
-```
-
 ## 项目截图
 
 ### 首页（懒，博文列表都一样 :sweat_smile: ）
