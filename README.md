@@ -4,7 +4,7 @@
 ```
 ## 项目截图
 
-### 首页（懒，博文列表都一样 :sweat_smile: ）
+### 首页
 
 ![首页](https://images.gitee.com/uploads/images/2019/0326/212821_d068d429_1658323.png "屏幕截图.png")
 
